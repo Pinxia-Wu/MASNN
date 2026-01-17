@@ -1,4 +1,4 @@
-# MASNN: Multi-scale adaptive subspace neural networks for solving partialdifferential equations with high accuracy
+# MASNN: Multi-scale adaptive subspace neural networks for solving partial differential equations with high accuracy
 
 Pinxia Wu, Zhiqiang Sheng
 
