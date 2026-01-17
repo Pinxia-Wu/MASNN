@@ -1,16 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# <div style="font-size: 80%;">
-# 
-# 1D Possion equation:
-# 
-# $\qquad$ $u_{xx} = f(x)$, $\quad$ $x \in [0, 1]$
-# 
-# $\qquad$ $u(0) = u(1) = 0$,
-# 
-# Exact solution: $u(x) = a_{1}\sin(\omega_{1}\pi x)+a_{2}\sin(\omega_{2}\pi x)$
-
 # In[ ]:
 
 
